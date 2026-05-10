@@ -2,7 +2,8 @@
 
 Book2Notes is a **rapid AI prototyping application** built using **AWS Bedrock** that converts full books into **structured, easy-to-understand learning notes** using Generative AI.
 
-🔗 App URL: https://partyrock.aws/u/ganeshpunde/O1eA-Iu-u/Book2Notes%253A-Turn-books-in-to-smart-learning-notes
+🔗 [Launch Book2Notes App](https://partyrock.aws/u/ganeshpunde/O1eA-Iu-u/Book2Notes%253A-Turn-books-in-to-smart-learning-notes)
+
 ---
 
 #  Overview
