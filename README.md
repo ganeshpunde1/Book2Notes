@@ -29,10 +29,7 @@ This application solves that by transforming raw book content into:
 
 # ⚙️ Tech Stack
 
-- **AWS Bedrock** → Generative AI model access  
-- **Python** → Backend logic  
-- **LangChain (optional if used)** → LLM orchestration  
-- **FastAPI (optional)** → API layer  
+- **AWS PartyRock** → Generative AI model access  
 - **Prompt Engineering** → Structured note generation  
 
 ---
