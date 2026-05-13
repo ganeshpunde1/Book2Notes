@@ -1,6 +1,6 @@
 # AI Agents / Agentic AI Course Summary
 
-This session introduced a complete free YouTube course on AI Agents / Agentic AI and explained the roadmap, requirements, and learning approach.
+AI Agents / Agentic AI and explained the roadmap, requirements, and learning approach.
 
 ---
 
